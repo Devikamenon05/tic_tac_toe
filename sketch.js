@@ -68,3 +68,6 @@ if (blueWins) { //playerOne is always blue
     console.log('game on...')
   }
 }
+function draw(){
+  background(51,255,107);
+}
